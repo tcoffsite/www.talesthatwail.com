@@ -13,7 +13,7 @@ export class AboutMorganBender extends Component {
                 src={aboutTheAuthorHeading}
                 alt="About the Author, Morgan Bender Filmstrip"
                 title="About the Author, Morgan Bender Filmstrip"
-                className="img-fluid"
+                className="img-fluid full-width"
               />
             </div>
           </div>

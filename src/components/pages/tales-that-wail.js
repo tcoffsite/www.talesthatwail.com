@@ -13,7 +13,7 @@ export class TalesThatWail extends Component {
                 src={aboutTheSeriesHeading}
                 alt="About the Series, Tales That Wail Filmstrip"
                 title="About the Series, Tales That Wail Filmstrip"
-                className="img-fluid"
+                className="img-fluid full-width"
               />
             </div>
           </div>

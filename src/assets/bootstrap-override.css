@@ -85,6 +85,10 @@ div {
     line-height: 280px; */
 }
 
+.full-width {
+    width: 100% !important;
+}
+
 .h2, h2 {
     font-size: 3rem;
     margin-bottom: 30px;

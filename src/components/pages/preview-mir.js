@@ -16,6 +16,7 @@ export class PreviewMakeItReal extends Component {
                 src={makeItRealHeading}
                 alt="Make It Real Filmstrip"
                 title="Make It Real Filmstrip"
+                className="img-fluid"
               />
             </div>
           </div>

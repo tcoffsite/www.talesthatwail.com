@@ -11,8 +11,9 @@ export class TalesThatWail extends Component {
             <div className="col-12 p-0">
               <img
                 src={aboutTheSeriesHeading}
-                alt="Make It Real Filmstrip"
-                title="Make It Real Filmstrip"
+                alt="About the Series, Tales That Wail Filmstrip"
+                title="About the Series, Tales That Wail Filmstrip"
+                className="img-fluid"
               />
             </div>
           </div>

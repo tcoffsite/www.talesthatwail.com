@@ -11,8 +11,9 @@ export class AboutMorganBender extends Component {
             <div className="col-12 p-0">
               <img
                 src={aboutTheAuthorHeading}
-                alt="Make It Real Filmstrip"
-                title="Make It Real Filmstrip"
+                alt="About the Author, Morgan Bender Filmstrip"
+                title="About the Author, Morgan Bender Filmstrip"
+                className="img-fluid"
               />
             </div>
           </div>

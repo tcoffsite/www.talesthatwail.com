@@ -349,6 +349,7 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
+build/
 design/
 design/sources/AdobeStock_54147992.jpeg
 design/sources/AdobeStock_66311728.jpeg
